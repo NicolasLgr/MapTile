@@ -13,7 +13,7 @@ TILE_SIZE = 36  # réduit pour tenir à l'écran
 IMG = "image/"
 
 PLAYERS_COLOR = [(255, 0, 0), (91, 245, 39), (0, 0, 255)]
-PLAYER_RADIUS = 6  # point plus petit
+PLAYER_RADIUS = 3  # point plus petit
 
 # =========================
 # DIRECTIONS
